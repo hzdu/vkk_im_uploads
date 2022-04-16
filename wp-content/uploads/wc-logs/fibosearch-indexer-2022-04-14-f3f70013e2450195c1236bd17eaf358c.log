@@ -1,0 +1,11 @@
+2022-04-14T14:02:27+00:00 INFO [404234] Indexer mode: async
+2022-04-14T14:02:27+00:00 INFO [404234] Indexer prepared for building the index
+2022-04-14T14:03:42+00:00 INFO [394644] Indexer started building the index
+2022-04-14T14:03:42+00:00 INFO [394644] [Readable index] Building...
+2022-04-14T14:03:43+00:00 INFO [394644] [Searchable index] Building...
+2022-04-14T14:03:43+00:00 INFO [394644] [Readable index] Processed 0 objects
+2022-04-14T14:03:43+00:00 INFO [394644] [Readable index] Completed
+2022-04-14T14:03:43+00:00 INFO [394644] [Taxonomy index] Building...
+2022-04-14T14:03:43+00:00 INFO [394644] [Taxonomy index] Completed
+2022-04-14T14:03:47+00:00 INFO [394644] [Searchable index] Completed
+2022-04-14T14:03:48+00:00 INFO [394644] Indexing completed
